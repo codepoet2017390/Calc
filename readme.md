@@ -1,1 +1,1 @@
-A simple calculator developed using React Native and Redux.
+A simple calculator app developed using React Native and Redux.
